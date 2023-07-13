@@ -1,0 +1,5 @@
+12345
+
+Modyfikacja na branch master
+
+Modyfikacja od mastera
